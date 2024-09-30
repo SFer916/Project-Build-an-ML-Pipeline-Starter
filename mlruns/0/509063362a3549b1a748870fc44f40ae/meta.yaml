@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/509063362a3549b1a748870fc44f40ae/artifacts
+end_time: 1727737997597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 509063362a3549b1a748870fc44f40ae
+run_name: likeable-croc-557
+run_uuid: 509063362a3549b1a748870fc44f40ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727737954677
+status: 3
+tags: []
+user_id: root

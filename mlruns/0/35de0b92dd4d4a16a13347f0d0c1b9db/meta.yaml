@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/35de0b92dd4d4a16a13347f0d0c1b9db/artifacts
+end_time: 1727738286576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35de0b92dd4d4a16a13347f0d0c1b9db
+run_name: dazzling-bass-940
+run_uuid: 35de0b92dd4d4a16a13347f0d0c1b9db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727738238934
+status: 3
+tags: []
+user_id: root

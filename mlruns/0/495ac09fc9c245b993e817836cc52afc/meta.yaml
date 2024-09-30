@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/495ac09fc9c245b993e817836cc52afc/artifacts
+end_time: 1727738286275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 495ac09fc9c245b993e817836cc52afc
+run_name: wise-hawk-300
+run_uuid: 495ac09fc9c245b993e817836cc52afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727738244443
+status: 3
+tags: []
+user_id: root

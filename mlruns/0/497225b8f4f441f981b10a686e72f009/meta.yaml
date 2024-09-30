@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/497225b8f4f441f981b10a686e72f009/artifacts
+end_time: 1727737882752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 497225b8f4f441f981b10a686e72f009
+run_name: fortunate-sloth-192
+run_uuid: 497225b8f4f441f981b10a686e72f009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727737825454
+status: 3
+tags: []
+user_id: root

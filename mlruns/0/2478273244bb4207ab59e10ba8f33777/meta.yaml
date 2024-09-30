@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2478273244bb4207ab59e10ba8f33777/artifacts
+end_time: 1727737997303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2478273244bb4207ab59e10ba8f33777
+run_name: bouncy-horse-752
+run_uuid: 2478273244bb4207ab59e10ba8f33777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727737958277
+status: 3
+tags: []
+user_id: root

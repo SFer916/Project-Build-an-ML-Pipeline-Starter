@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd9a0089a26d4c12ba7bf625b836ad2d/artifacts
+end_time: 1727738186889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd9a0089a26d4c12ba7bf625b836ad2d
+run_name: debonair-stag-409
+run_uuid: dd9a0089a26d4c12ba7bf625b836ad2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727738145962
+status: 3
+tags: []
+user_id: root
