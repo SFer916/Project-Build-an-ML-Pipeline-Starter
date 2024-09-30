@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2ce538e07c414ca4a67f55a2bb980231/artifacts
+end_time: 1727658731923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ce538e07c414ca4a67f55a2bb980231
+run_name: caring-hawk-11
+run_uuid: 2ce538e07c414ca4a67f55a2bb980231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727658713109
+status: 4
+tags: []
+user_id: root

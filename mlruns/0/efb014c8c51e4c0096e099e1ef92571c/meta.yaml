@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/efb014c8c51e4c0096e099e1ef92571c/artifacts
+end_time: 1727662603053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb014c8c51e4c0096e099e1ef92571c
+run_name: gregarious-fly-475
+run_uuid: efb014c8c51e4c0096e099e1ef92571c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662538337
+status: 4
+tags: []
+user_id: root

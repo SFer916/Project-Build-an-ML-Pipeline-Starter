@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/813e891d1cfc44078cdf344172b70f12/artifacts
+end_time: 1727660903556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 813e891d1cfc44078cdf344172b70f12
+run_name: loud-wren-223
+run_uuid: 813e891d1cfc44078cdf344172b70f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727660877967
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/690ba08a0fc04e7d879ff6a14c7759e5/artifacts
+end_time: 1727628753790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 690ba08a0fc04e7d879ff6a14c7759e5
+run_name: persistent-trout-520
+run_uuid: 690ba08a0fc04e7d879ff6a14c7759e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727628737212
+status: 3
+tags: []
+user_id: root

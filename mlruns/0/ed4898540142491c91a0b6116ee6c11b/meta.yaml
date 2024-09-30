@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ed4898540142491c91a0b6116ee6c11b/artifacts
+end_time: 1727558592220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed4898540142491c91a0b6116ee6c11b
+run_name: judicious-snail-693
+run_uuid: ed4898540142491c91a0b6116ee6c11b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727558577921
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/74a725c42801496fb939f66ebe07f049/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74a725c42801496fb939f66ebe07f049
+run_name: intrigued-cow-301
+run_uuid: 74a725c42801496fb939f66ebe07f049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727561920483
+status: 1
+tags: []
+user_id: root

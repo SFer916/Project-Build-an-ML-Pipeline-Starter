@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cfec102c443d4b0abb7e5305e63d1b50/artifacts
+end_time: 1727554374450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfec102c443d4b0abb7e5305e63d1b50
+run_name: delicate-fox-286
+run_uuid: cfec102c443d4b0abb7e5305e63d1b50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727554231448
+status: 3
+tags: []
+user_id: root

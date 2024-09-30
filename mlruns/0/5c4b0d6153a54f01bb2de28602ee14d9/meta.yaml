@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c4b0d6153a54f01bb2de28602ee14d9/artifacts
+end_time: 1727657830783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c4b0d6153a54f01bb2de28602ee14d9
+run_name: peaceful-perch-560
+run_uuid: 5c4b0d6153a54f01bb2de28602ee14d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727657816516
+status: 4
+tags: []
+user_id: root

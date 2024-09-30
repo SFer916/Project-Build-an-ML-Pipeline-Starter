@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3920cf034ecd4e189c2ec4d9f1d8dcd1/artifacts
+end_time: 1727657860244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3920cf034ecd4e189c2ec4d9f1d8dcd1
+run_name: persistent-yak-996
+run_uuid: 3920cf034ecd4e189c2ec4d9f1d8dcd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727657846014
+status: 4
+tags: []
+user_id: root

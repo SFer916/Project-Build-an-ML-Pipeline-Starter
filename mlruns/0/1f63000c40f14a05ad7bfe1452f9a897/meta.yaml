@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1f63000c40f14a05ad7bfe1452f9a897/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f63000c40f14a05ad7bfe1452f9a897
+run_name: rare-cub-379
+run_uuid: 1f63000c40f14a05ad7bfe1452f9a897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727573392222
+status: 1
+tags: []
+user_id: root

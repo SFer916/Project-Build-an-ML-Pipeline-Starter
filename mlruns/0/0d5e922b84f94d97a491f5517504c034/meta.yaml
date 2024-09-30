@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0d5e922b84f94d97a491f5517504c034/artifacts
+end_time: 1727552258866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d5e922b84f94d97a491f5517504c034
+run_name: treasured-ram-867
+run_uuid: 0d5e922b84f94d97a491f5517504c034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727552229969
+status: 3
+tags: []
+user_id: root

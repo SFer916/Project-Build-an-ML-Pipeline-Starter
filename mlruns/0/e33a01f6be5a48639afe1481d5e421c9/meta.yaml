@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e33a01f6be5a48639afe1481d5e421c9/artifacts
+end_time: 1727399816552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e33a01f6be5a48639afe1481d5e421c9
+run_name: zealous-fish-784
+run_uuid: e33a01f6be5a48639afe1481d5e421c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727399619100
+status: 3
+tags: []
+user_id: root

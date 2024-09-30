@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1cb2d28f285644c4a45a28aa1149b925/artifacts
+end_time: 1727628280348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cb2d28f285644c4a45a28aa1149b925
+run_name: carefree-penguin-936
+run_uuid: 1cb2d28f285644c4a45a28aa1149b925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727628266148
+status: 3
+tags: []
+user_id: root

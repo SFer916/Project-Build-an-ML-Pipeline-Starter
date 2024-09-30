@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1f148e39a881424f83858aaf4213062d/artifacts
+end_time: 1727659934825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f148e39a881424f83858aaf4213062d
+run_name: dapper-smelt-424
+run_uuid: 1f148e39a881424f83858aaf4213062d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727659911842
+status: 3
+tags: []
+user_id: root

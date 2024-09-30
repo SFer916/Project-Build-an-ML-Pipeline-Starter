@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dcf1149f87634081a0dfbc62d946ebc8/artifacts
+end_time: 1727662140859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcf1149f87634081a0dfbc62d946ebc8
+run_name: welcoming-shark-531
+run_uuid: dcf1149f87634081a0dfbc62d946ebc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662124087
+status: 4
+tags: []
+user_id: root

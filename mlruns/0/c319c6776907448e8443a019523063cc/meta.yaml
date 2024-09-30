@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c319c6776907448e8443a019523063cc/artifacts
+end_time: 1727659894364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c319c6776907448e8443a019523063cc
+run_name: upset-crane-218
+run_uuid: c319c6776907448e8443a019523063cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727659844310
+status: 3
+tags: []
+user_id: root

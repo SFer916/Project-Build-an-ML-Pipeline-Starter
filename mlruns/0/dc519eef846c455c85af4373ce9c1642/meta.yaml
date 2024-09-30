@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dc519eef846c455c85af4373ce9c1642/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc519eef846c455c85af4373ce9c1642
+run_name: exultant-ant-435
+run_uuid: dc519eef846c455c85af4373ce9c1642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727627584329
+status: 1
+tags: []
+user_id: root

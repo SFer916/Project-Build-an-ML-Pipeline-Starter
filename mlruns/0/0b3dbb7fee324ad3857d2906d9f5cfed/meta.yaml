@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0b3dbb7fee324ad3857d2906d9f5cfed/artifacts
+end_time: 1727561953703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b3dbb7fee324ad3857d2906d9f5cfed
+run_name: unruly-fox-866
+run_uuid: 0b3dbb7fee324ad3857d2906d9f5cfed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727561905330
+status: 4
+tags: []
+user_id: root

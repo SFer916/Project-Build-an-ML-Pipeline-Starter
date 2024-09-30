@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f6261b65fe5d4ad691bd4a18d3fc026c/artifacts
+end_time: 1727660920269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6261b65fe5d4ad691bd4a18d3fc026c
+run_name: rumbling-penguin-967
+run_uuid: f6261b65fe5d4ad691bd4a18d3fc026c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727660903724
+status: 4
+tags: []
+user_id: root

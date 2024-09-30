@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7fd4d2b454da4b2582fe44889e5ffcec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fd4d2b454da4b2582fe44889e5ffcec
+run_name: delightful-steed-572
+run_uuid: 7fd4d2b454da4b2582fe44889e5ffcec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727569709454
+status: 1
+tags: []
+user_id: root

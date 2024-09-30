@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/958400ffc2854c7e8b6f7d3038706ca4/artifacts
+end_time: 1727637274162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 958400ffc2854c7e8b6f7d3038706ca4
+run_name: peaceful-finch-659
+run_uuid: 958400ffc2854c7e8b6f7d3038706ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727637267972
+status: 4
+tags: []
+user_id: root

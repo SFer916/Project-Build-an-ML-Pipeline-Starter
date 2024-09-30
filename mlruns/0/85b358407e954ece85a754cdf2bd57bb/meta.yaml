@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85b358407e954ece85a754cdf2bd57bb/artifacts
+end_time: 1727574355987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85b358407e954ece85a754cdf2bd57bb
+run_name: monumental-crow-13
+run_uuid: 85b358407e954ece85a754cdf2bd57bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727574296982
+status: 4
+tags: []
+user_id: root

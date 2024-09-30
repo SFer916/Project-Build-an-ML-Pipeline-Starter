@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7985a6ee53ff42469d268c87b9957651/artifacts
+end_time: 1727654000054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7985a6ee53ff42469d268c87b9957651
+run_name: indecisive-doe-922
+run_uuid: 7985a6ee53ff42469d268c87b9957651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727653931752
+status: 4
+tags: []
+user_id: root

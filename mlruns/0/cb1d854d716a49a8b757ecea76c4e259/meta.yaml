@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cb1d854d716a49a8b757ecea76c4e259/artifacts
+end_time: 1727409481172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb1d854d716a49a8b757ecea76c4e259
+run_name: zealous-roo-715
+run_uuid: cb1d854d716a49a8b757ecea76c4e259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727409476587
+status: 3
+tags: []
+user_id: root

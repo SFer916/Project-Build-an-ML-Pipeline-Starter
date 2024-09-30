@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/256db760dba64451aa0d9b88d313c50b/artifacts
+end_time: 1727637205242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 256db760dba64451aa0d9b88d313c50b
+run_name: abrasive-donkey-88
+run_uuid: 256db760dba64451aa0d9b88d313c50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727636993746
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/16dacba5a17d4438bb8fda4234b80341/artifacts
+end_time: 1727657816335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16dacba5a17d4438bb8fda4234b80341
+run_name: monumental-toad-223
+run_uuid: 16dacba5a17d4438bb8fda4234b80341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727657800998
+status: 4
+tags: []
+user_id: root

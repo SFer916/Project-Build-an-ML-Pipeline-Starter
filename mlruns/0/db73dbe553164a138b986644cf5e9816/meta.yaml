@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/db73dbe553164a138b986644cf5e9816/artifacts
+end_time: 1727662587252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db73dbe553164a138b986644cf5e9816
+run_name: secretive-dove-906
+run_uuid: db73dbe553164a138b986644cf5e9816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662572879
+status: 4
+tags: []
+user_id: root

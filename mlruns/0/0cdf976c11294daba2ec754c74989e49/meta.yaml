@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0cdf976c11294daba2ec754c74989e49/artifacts
+end_time: 1727575756518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cdf976c11294daba2ec754c74989e49
+run_name: victorious-shark-770
+run_uuid: 0cdf976c11294daba2ec754c74989e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727575727876
+status: 3
+tags: []
+user_id: root

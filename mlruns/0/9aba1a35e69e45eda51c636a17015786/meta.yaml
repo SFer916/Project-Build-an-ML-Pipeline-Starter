@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9aba1a35e69e45eda51c636a17015786/artifacts
+end_time: 1727636372784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aba1a35e69e45eda51c636a17015786
+run_name: bouncy-yak-780
+run_uuid: 9aba1a35e69e45eda51c636a17015786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727636332558
+status: 4
+tags: []
+user_id: root

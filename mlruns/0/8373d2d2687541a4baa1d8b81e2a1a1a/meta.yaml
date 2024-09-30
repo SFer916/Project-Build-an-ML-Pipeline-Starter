@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8373d2d2687541a4baa1d8b81e2a1a1a/artifacts
+end_time: 1727659935179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8373d2d2687541a4baa1d8b81e2a1a1a
+run_name: agreeable-quail-141
+run_uuid: 8373d2d2687541a4baa1d8b81e2a1a1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727659908209
+status: 3
+tags: []
+user_id: root

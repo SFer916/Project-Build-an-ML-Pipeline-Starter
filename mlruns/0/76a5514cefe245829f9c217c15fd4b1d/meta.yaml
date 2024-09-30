@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/76a5514cefe245829f9c217c15fd4b1d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76a5514cefe245829f9c217c15fd4b1d
+run_name: enchanting-sow-577
+run_uuid: 76a5514cefe245829f9c217c15fd4b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727575943095
+status: 1
+tags: []
+user_id: root

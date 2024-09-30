@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5b8e7ad824764c5b94a314c31b824360/artifacts
+end_time: 1727653480360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b8e7ad824764c5b94a314c31b824360
+run_name: colorful-swan-24
+run_uuid: 5b8e7ad824764c5b94a314c31b824360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727653239017
+status: 4
+tags: []
+user_id: root

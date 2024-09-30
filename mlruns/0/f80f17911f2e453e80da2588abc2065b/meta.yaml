@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f80f17911f2e453e80da2588abc2065b/artifacts
+end_time: 1727559645357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80f17911f2e453e80da2588abc2065b
+run_name: lyrical-swan-146
+run_uuid: f80f17911f2e453e80da2588abc2065b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727559629314
+status: 4
+tags: []
+user_id: root

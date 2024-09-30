@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57e1bd5a1e894767abea8fa9c07652a7/artifacts
+end_time: 1727653449313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57e1bd5a1e894767abea8fa9c07652a7
+run_name: unruly-dove-646
+run_uuid: 57e1bd5a1e894767abea8fa9c07652a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727653433926
+status: 4
+tags: []
+user_id: root

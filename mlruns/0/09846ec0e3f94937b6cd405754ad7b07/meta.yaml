@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/09846ec0e3f94937b6cd405754ad7b07/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09846ec0e3f94937b6cd405754ad7b07
+run_name: righteous-shrew-546
+run_uuid: 09846ec0e3f94937b6cd405754ad7b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727565214862
+status: 1
+tags: []
+user_id: root

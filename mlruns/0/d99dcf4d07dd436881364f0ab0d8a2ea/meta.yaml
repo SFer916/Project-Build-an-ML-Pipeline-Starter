@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d99dcf4d07dd436881364f0ab0d8a2ea/artifacts
+end_time: 1727657845861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d99dcf4d07dd436881364f0ab0d8a2ea
+run_name: salty-snail-422
+run_uuid: d99dcf4d07dd436881364f0ab0d8a2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727657830984
+status: 4
+tags: []
+user_id: root

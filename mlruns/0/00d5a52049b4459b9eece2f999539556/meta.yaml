@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/00d5a52049b4459b9eece2f999539556/artifacts
+end_time: 1727574259427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00d5a52049b4459b9eece2f999539556
+run_name: rumbling-swan-406
+run_uuid: 00d5a52049b4459b9eece2f999539556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727574239150
+status: 3
+tags: []
+user_id: root

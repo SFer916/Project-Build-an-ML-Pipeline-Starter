@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/799e7a9e3e0c4b79adf2f15d09969129/artifacts
+end_time: 1727637204806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 799e7a9e3e0c4b79adf2f15d09969129
+run_name: welcoming-sheep-87
+run_uuid: 799e7a9e3e0c4b79adf2f15d09969129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727637007399
+status: 3
+tags: []
+user_id: root

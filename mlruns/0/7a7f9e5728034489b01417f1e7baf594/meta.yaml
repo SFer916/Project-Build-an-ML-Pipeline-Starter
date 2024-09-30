@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7a7f9e5728034489b01417f1e7baf594/artifacts
+end_time: 1727653983890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a7f9e5728034489b01417f1e7baf594
+run_name: capricious-cat-182
+run_uuid: 7a7f9e5728034489b01417f1e7baf594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727653968054
+status: 4
+tags: []
+user_id: root

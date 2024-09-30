@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8a5418063fa0430bbe1338cdc7124649/artifacts
+end_time: 1727653479601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a5418063fa0430bbe1338cdc7124649
+run_name: flawless-snail-103
+run_uuid: 8a5418063fa0430bbe1338cdc7124649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727653465113
+status: 4
+tags: []
+user_id: root

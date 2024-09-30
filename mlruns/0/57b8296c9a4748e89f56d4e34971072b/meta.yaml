@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/57b8296c9a4748e89f56d4e34971072b/artifacts
+end_time: 1727628984216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57b8296c9a4748e89f56d4e34971072b
+run_name: polite-carp-678
+run_uuid: 57b8296c9a4748e89f56d4e34971072b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727628790342
+status: 4
+tags: []
+user_id: root

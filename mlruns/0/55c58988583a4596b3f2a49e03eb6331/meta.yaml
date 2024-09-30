@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/55c58988583a4596b3f2a49e03eb6331/artifacts
+end_time: 1727653952460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55c58988583a4596b3f2a49e03eb6331
+run_name: gentle-mouse-649
+run_uuid: 55c58988583a4596b3f2a49e03eb6331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727653936099
+status: 4
+tags: []
+user_id: root

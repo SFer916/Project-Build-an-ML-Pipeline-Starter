@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/517047a9d38f476e8aa5b7bb6e0d7906/artifacts
+end_time: 1727653433700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 517047a9d38f476e8aa5b7bb6e0d7906
+run_name: nebulous-bat-613
+run_uuid: 517047a9d38f476e8aa5b7bb6e0d7906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727653256216
+status: 4
+tags: []
+user_id: root

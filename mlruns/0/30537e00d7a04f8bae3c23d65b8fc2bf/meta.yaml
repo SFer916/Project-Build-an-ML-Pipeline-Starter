@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30537e00d7a04f8bae3c23d65b8fc2bf/artifacts
+end_time: 1727560435532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30537e00d7a04f8bae3c23d65b8fc2bf
+run_name: crawling-kit-815
+run_uuid: 30537e00d7a04f8bae3c23d65b8fc2bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727560385935
+status: 4
+tags: []
+user_id: root

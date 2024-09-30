@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/258cfad41fa54924871c296323dedb76/artifacts
+end_time: 1727660048780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 258cfad41fa54924871c296323dedb76
+run_name: luminous-conch-119
+run_uuid: 258cfad41fa54924871c296323dedb76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727660011866
+status: 3
+tags: []
+user_id: root

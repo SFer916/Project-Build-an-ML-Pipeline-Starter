@@ -1,0 +1,72 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.0",
+    "heartbeatAt": "2024-09-29T16:56:16.067273",
+    "startedAt": "2024-09-29T16:56:15.431156",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/root/miniconda3/envs/mlflow-7f31f235c0a9a8eb632aacbed7de4f4e2a7faf29/bin/pytest",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/SFer916/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "0936351046db1e8e7587aa16f516b26a9374b3da"
+    },
+    "email": null,
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter",
+    "host": "SAF916",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/mlflow-7f31f235c0a9a8eb632aacbed7de4f4e2a7faf29/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2395.437,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 13.842124938964844
+        }
+    },
+    "memory": {
+        "total": 4.7664794921875
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6110439aff2f4ae48706bf969de5801d/artifacts
+end_time: 1727662156828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6110439aff2f4ae48706bf969de5801d
+run_name: redolent-pug-530
+run_uuid: 6110439aff2f4ae48706bf969de5801d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662141069
+status: 4
+tags: []
+user_id: root

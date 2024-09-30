@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bdc2c30ef062473698d5417eda4c61da/artifacts
+end_time: 1727657105254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdc2c30ef062473698d5417eda4c61da
+run_name: puzzled-calf-708
+run_uuid: bdc2c30ef062473698d5417eda4c61da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727657061617
+status: 4
+tags: []
+user_id: root

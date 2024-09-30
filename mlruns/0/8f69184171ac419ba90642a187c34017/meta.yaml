@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f69184171ac419ba90642a187c34017/artifacts
+end_time: 1727575920625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f69184171ac419ba90642a187c34017
+run_name: able-wren-500
+run_uuid: 8f69184171ac419ba90642a187c34017
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727575899084
+status: 3
+tags: []
+user_id: root

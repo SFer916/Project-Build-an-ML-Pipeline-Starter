@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/53dc58ebdcea497a9ea5ddbed3009621/artifacts
+end_time: 1727652384682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53dc58ebdcea497a9ea5ddbed3009621
+run_name: mercurial-ant-587
+run_uuid: 53dc58ebdcea497a9ea5ddbed3009621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727652378282
+status: 4
+tags: []
+user_id: root

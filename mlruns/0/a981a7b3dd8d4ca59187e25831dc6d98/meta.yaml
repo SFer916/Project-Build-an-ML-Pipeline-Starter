@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a981a7b3dd8d4ca59187e25831dc6d98/artifacts
+end_time: 1727565253347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a981a7b3dd8d4ca59187e25831dc6d98
+run_name: overjoyed-swan-968
+run_uuid: a981a7b3dd8d4ca59187e25831dc6d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727565194447
+status: 4
+tags: []
+user_id: root

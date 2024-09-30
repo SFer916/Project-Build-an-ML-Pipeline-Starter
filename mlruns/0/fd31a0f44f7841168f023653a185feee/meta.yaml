@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd31a0f44f7841168f023653a185feee/artifacts
+end_time: 1727662558093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd31a0f44f7841168f023653a185feee
+run_name: luxuriant-stork-904
+run_uuid: fd31a0f44f7841168f023653a185feee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662542584
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eb1c26ae740949af9904d0a0c2c97201/artifacts
+end_time: 1727660949985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb1c26ae740949af9904d0a0c2c97201
+run_name: upbeat-finch-240
+run_uuid: eb1c26ae740949af9904d0a0c2c97201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727660935165
+status: 4
+tags: []
+user_id: root

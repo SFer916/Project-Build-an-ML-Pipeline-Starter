@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a1cbf682c79441b5ae05364db7721a3b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1cbf682c79441b5ae05364db7721a3b
+run_name: debonair-ant-404
+run_uuid: a1cbf682c79441b5ae05364db7721a3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727573677950
+status: 1
+tags: []
+user_id: root

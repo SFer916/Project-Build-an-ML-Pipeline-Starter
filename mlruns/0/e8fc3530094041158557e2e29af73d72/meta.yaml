@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e8fc3530094041158557e2e29af73d72/artifacts
+end_time: 1727662572717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8fc3530094041158557e2e29af73d72
+run_name: unleashed-sloth-17
+run_uuid: e8fc3530094041158557e2e29af73d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662558259
+status: 4
+tags: []
+user_id: root

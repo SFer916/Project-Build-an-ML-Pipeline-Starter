@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/948fb421e38b49b7b515ea1a59f2add1/artifacts
+end_time: 1727662602617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 948fb421e38b49b7b515ea1a59f2add1
+run_name: calm-eel-108
+run_uuid: 948fb421e38b49b7b515ea1a59f2add1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662587413
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6874895a92848f0b02429b0fbe2f72e/artifacts
+end_time: 1727573704992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6874895a92848f0b02429b0fbe2f72e
+run_name: powerful-bee-482
+run_uuid: c6874895a92848f0b02429b0fbe2f72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727573672253
+status: 4
+tags: []
+user_id: root

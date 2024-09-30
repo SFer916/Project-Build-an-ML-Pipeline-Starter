@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1f2f44771aa54f28aaaa551be5b548e5/artifacts
+end_time: 1727662174048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f2f44771aa54f28aaaa551be5b548e5
+run_name: casual-calf-456
+run_uuid: 1f2f44771aa54f28aaaa551be5b548e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727662100325
+status: 4
+tags: []
+user_id: root
