@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/68da9027ba344fba86bdaef22f2998c5/artifacts
+end_time: 1727740622119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68da9027ba344fba86bdaef22f2998c5
+run_name: overjoyed-bass-278
+run_uuid: 68da9027ba344fba86bdaef22f2998c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727740571328
+status: 3
+tags: []
+user_id: root

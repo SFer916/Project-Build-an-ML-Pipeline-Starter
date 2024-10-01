@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cafd9880a5a442419fd2709027ee33da/artifacts
+end_time: 1727741287902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cafd9880a5a442419fd2709027ee33da
+run_name: clumsy-toad-126
+run_uuid: cafd9880a5a442419fd2709027ee33da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727740999513
+status: 4
+tags: []
+user_id: root

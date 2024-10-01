@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2949eb35cdd9478b84887aab7fe54631/artifacts
+end_time: 1727740740686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2949eb35cdd9478b84887aab7fe54631
+run_name: orderly-newt-603
+run_uuid: 2949eb35cdd9478b84887aab7fe54631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727740718592
+status: 3
+tags: []
+user_id: root

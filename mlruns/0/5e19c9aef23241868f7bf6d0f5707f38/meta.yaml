@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5e19c9aef23241868f7bf6d0f5707f38/artifacts
+end_time: 1727740686446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e19c9aef23241868f7bf6d0f5707f38
+run_name: upbeat-shad-638
+run_uuid: 5e19c9aef23241868f7bf6d0f5707f38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727740658033
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f785631b140a4139a137d53eb52a6aeb/artifacts
+end_time: 1727748986959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f785631b140a4139a137d53eb52a6aeb
+run_name: sedate-smelt-922
+run_uuid: f785631b140a4139a137d53eb52a6aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727748812081
+status: 4
+tags: []
+user_id: root

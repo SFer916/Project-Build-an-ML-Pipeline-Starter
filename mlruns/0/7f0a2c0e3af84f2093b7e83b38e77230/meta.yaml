@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7f0a2c0e3af84f2093b7e83b38e77230/artifacts
+end_time: 1727740621579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f0a2c0e3af84f2093b7e83b38e77230
+run_name: nervous-fox-312
+run_uuid: 7f0a2c0e3af84f2093b7e83b38e77230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727740591954
+status: 3
+tags: []
+user_id: root

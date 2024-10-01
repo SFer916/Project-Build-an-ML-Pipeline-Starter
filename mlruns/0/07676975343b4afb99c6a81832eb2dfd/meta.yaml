@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/07676975343b4afb99c6a81832eb2dfd/artifacts
+end_time: 1727740686737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07676975343b4afb99c6a81832eb2dfd
+run_name: secretive-worm-101
+run_uuid: 07676975343b4afb99c6a81832eb2dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727740653576
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c3e5e77ebd4f44e997a78c48631caf8d/artifacts
+end_time: 1727748811918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e5e77ebd4f44e997a78c48631caf8d
+run_name: efficient-wren-107
+run_uuid: c3e5e77ebd4f44e997a78c48631caf8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727748716459
+status: 4
+tags: []
+user_id: root

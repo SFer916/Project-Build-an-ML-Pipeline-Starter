@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fa472aa977d4408f89bce2ebb8b14a4f/artifacts
+end_time: 1727741628361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa472aa977d4408f89bce2ebb8b14a4f
+run_name: unequaled-hare-714
+run_uuid: fa472aa977d4408f89bce2ebb8b14a4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727741463797
+status: 4
+tags: []
+user_id: root

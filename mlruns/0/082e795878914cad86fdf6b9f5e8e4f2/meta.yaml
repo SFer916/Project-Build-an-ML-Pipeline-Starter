@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/082e795878914cad86fdf6b9f5e8e4f2/artifacts
+end_time: 1727741891367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 082e795878914cad86fdf6b9f5e8e4f2
+run_name: able-auk-472
+run_uuid: 082e795878914cad86fdf6b9f5e8e4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727741722068
+status: 4
+tags: []
+user_id: root

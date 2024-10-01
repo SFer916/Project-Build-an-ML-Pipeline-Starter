@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/546282099dbc4bed9b35a340d7402e0f/artifacts
+end_time: 1727741891801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 546282099dbc4bed9b35a340d7402e0f
+run_name: adaptable-fowl-576
+run_uuid: 546282099dbc4bed9b35a340d7402e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727741368121
+status: 4
+tags: []
+user_id: root

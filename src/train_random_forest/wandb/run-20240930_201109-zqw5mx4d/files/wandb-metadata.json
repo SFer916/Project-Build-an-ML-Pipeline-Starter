@@ -1,0 +1,75 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.20",
+    "heartbeatAt": "2024-10-01T00:11:09.764093",
+    "startedAt": "2024-10-01T00:11:09.131748",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/root/Project-Build-an-ML-Pipeline-Starter/multirun/2024-09-30/20-09-31/1/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/SFer916/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "916071b7a9899a4359fd5f56d9bb7fbba81483e3"
+    },
+    "email": null,
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter",
+    "host": "SAF916",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/mlflow-79ae7d1925192e1bd9c83f4974aca3681e4750a1/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2395.437,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2395.437,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 15.688732147216797
+        }
+    },
+    "memory": {
+        "total": 4.7664794921875
+    }
+}

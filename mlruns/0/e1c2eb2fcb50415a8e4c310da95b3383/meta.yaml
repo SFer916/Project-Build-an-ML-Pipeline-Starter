@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1c2eb2fcb50415a8e4c310da95b3383/artifacts
+end_time: 1727741463642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1c2eb2fcb50415a8e4c310da95b3383
+run_name: peaceful-fowl-937
+run_uuid: e1c2eb2fcb50415a8e4c310da95b3383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727741372158
+status: 4
+tags: []
+user_id: root
