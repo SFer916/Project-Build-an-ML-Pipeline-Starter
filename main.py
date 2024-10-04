@@ -87,7 +87,7 @@ def go(config: DictConfig):
                      "test_size": config["modeling"]["test_size"],
                      "random_seed": config["modeling"]["random_seed"],
                      "stratify_by": config["modeling"]["stratify_by"]
-                }
+                },
             )
             pass
 
@@ -111,7 +111,7 @@ def go(config: DictConfig):
                      "rf_config": rf_config,
                      "max_tfidf_features": config["modeling"]["max_tfidf_features"],
                      "output_artifact": "random_forest_export"
-                 }
+                 },
              )
             pass
 

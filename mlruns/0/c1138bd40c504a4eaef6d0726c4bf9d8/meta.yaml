@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c1138bd40c504a4eaef6d0726c4bf9d8/artifacts
+end_time: 1728009302735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1138bd40c504a4eaef6d0726c4bf9d8
+run_name: wistful-yak-829
+run_uuid: c1138bd40c504a4eaef6d0726c4bf9d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728009214719
+status: 4
+tags: []
+user_id: root

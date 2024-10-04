@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/83762f89c61e4326a7fae657510d504b/artifacts
+end_time: 1728008732184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83762f89c61e4326a7fae657510d504b
+run_name: angry-squirrel-307
+run_uuid: 83762f89c61e4326a7fae657510d504b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728008689932
+status: 3
+tags: []
+user_id: root
