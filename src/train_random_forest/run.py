@@ -93,6 +93,7 @@ def go(args):
     # Save the sk_pipe pipeline as a mlflow.sklearn model in the directory "random_forest_dir"
     # HINT: use mlflow.sklearn.save_model
     signature = mlflow.models.infer_signature(X_val, y_pred)
+    
     mlflow.sklearn.save_model(
         path = random_forest_dir,
         signature = signature,
@@ -227,7 +228,7 @@ def get_inference_pipeline(rf_config, max_tfidf_features):
         steps =[
             ("preprocessor", preprocessor),
             ("random_forest", random_forest)
-        ]
+        ],
     )
 
     return sk_pipe, processed_features

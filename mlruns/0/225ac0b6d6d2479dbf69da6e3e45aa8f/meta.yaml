@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/225ac0b6d6d2479dbf69da6e3e45aa8f/artifacts
+end_time: 1728012491099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 225ac0b6d6d2479dbf69da6e3e45aa8f
+run_name: bedecked-jay-19
+run_uuid: 225ac0b6d6d2479dbf69da6e3e45aa8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728012328642
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/285b96066af8411080b7942fbd0e5ffe/artifacts
+end_time: 1728011016659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 285b96066af8411080b7942fbd0e5ffe
+run_name: orderly-bug-911
+run_uuid: 285b96066af8411080b7942fbd0e5ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728010928788
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/407abc71ed23441f9f084519ec8f496f/artifacts
+end_time: 1728012328477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 407abc71ed23441f9f084519ec8f496f
+run_name: dapper-finch-157
+run_uuid: 407abc71ed23441f9f084519ec8f496f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728012220950
+status: 4
+tags: []
+user_id: root

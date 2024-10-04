@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ba414af4fee243ff920de2976b0f7f65/artifacts
+end_time: 1728010928624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba414af4fee243ff920de2976b0f7f65
+run_name: youthful-calf-948
+run_uuid: ba414af4fee243ff920de2976b0f7f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728010770234
+status: 4
+tags: []
+user_id: root
